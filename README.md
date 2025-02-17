@@ -8,7 +8,7 @@ Welcome to my corner of GitHub! I'm a **full-stack developer** who loves buildin
 ## 🌟 A Little Bit About Me  
 
 -  **Green Thumb  🌱**  When I’m not coding, you’ll find me in the garden, growing veggies (currently obsessed with growing watermelons 🍉 and rockmelons 🍈 ).  
--  **Animal Enthusiast  🐾** A s a former vet assistant, animals hold a special place in my heart.  
+-  **Animal Enthusiast  🐾** As a former vet assistant, animals hold a special place in my heart.  
 -  **AI Integration  💡**  Love learning about the sustainable and ethical use of AI integration in my projects.
 
 ---
