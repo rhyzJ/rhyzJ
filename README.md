@@ -1,7 +1,7 @@
 # Howdy! I'm Rhya 👩🏼‍🌾
 (rhy for short)
 
-Welcome to my corner of GitHub! I'm a **full-stack developer** who loves building things that solve real-world problems. Whether it's crafting an aesthetically pleasing/functional front-end or creating back-end systems, I’m all about turning ideas into user-friendly solutions.  
+Welcome to my corner of GitHub! I'm a **Full-stack Developer** and **Assistant Trainer** currently working at **Mission Ready**. I love building things that solve real-world problems. Whether it's crafting an aesthetically pleasing/functional front-end or creating snazzy back-end systems, I’m all about turning ideas into user-friendly solutions.  
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to my corner of GitHub! I'm a **full-stack developer** who loves buildin
 ## 🛠️ My Skills  
 
 Here’s my current tech stack (and growing!):  
-- **Front-End:** React, TypeScript, CSS, responsive design, Next.js  
+- **Front-End:** React, TypeScript, CSS, Tailwind responsive design, Next.js  
 - **Back-End:** Node.js, Express, RESTful APIs  
 - **Databases:** MongoDB, MySQL  
 - **DevOps:** Git, GitHub, and Azure  
@@ -28,7 +28,7 @@ Here’s my current tech stack (and growing!):
 
 Lately, I’ve been diving into:  
 - 🌐 **AI in Applications:** Exploring ways to use AI tools responsibly and creatively.  
-- 🗺️ **Map Integration:** Using the Google Maps API for custom mapping solutions. I dove into this for my recent mock Z energy site re-design project.
+- 🗺️ **Map Integration:** Using the Google Maps API for custom mapping solutions.
 - 🛠️ **Mock Projects:** Building small-scale projects to sharpen my skills and experiment with new tools.    
 
 ---
